@@ -289,7 +289,7 @@ a {
 
 /* line 75, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
 a:hover {
-  color: #fff;
+  color: #626262;
 }
 
 /* line 78, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
@@ -303,7 +303,7 @@ a:hover,
 /* line 84, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_common.scss */
 a,
 button {
-  color: #fff;
+  color: #0015ff;
   outline: medium none;
 }
 
@@ -8313,3 +8313,9 @@ del {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+a {
+  color: blue;      /* muda a cor do link */
+  font-size: 12px;  /* aumenta a fonte */
+  text-decoration: underline; /* deixa sublinhado, padrão de link */
+}
