@@ -8317,3 +8317,15 @@ a {
   font-size: 12px;  /* aumenta a fonte */
   text-decoration: underline; /* deixa sublinhado, padrão de link */
 }
+
+
+
+/* Ct; /* Define a cor do texto como preto para garantir visibilidade */
+}
+
+
+
+.color-green {
+  color: #000000 !important; /* Define a cor do texto como preto para garantir visibilidade */
+}
+
