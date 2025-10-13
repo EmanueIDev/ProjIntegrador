@@ -8313,7 +8313,7 @@ del {
 /*# sourceMappingURL=style.css.map */
 
 a {
-  color: blue;      /* muda a cor do link */
-  font-size: 12px;  /* aumenta a fonte */
-  text-decoration: underline; /* deixa sublinhado, padrão de link */
+  color: blue;     
+  font-size: 12px; 
+  text-decoration: underline;
 }
