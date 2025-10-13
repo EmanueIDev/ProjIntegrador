@@ -3664,7 +3664,7 @@ hr {
 
 /* line 127, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_h1-hero.scss */
 .slider-area2 .hero-cap h2 {
-  color: #072366;
+  color: white;
   font-size: 50px;
   font-weight: 800;
   text-transform: capitalize;
@@ -4131,8 +4131,6 @@ hr {
   display: -ms-flexbox;
   display: -webkit-flex;
   display: flex;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
   -webkit-align-items: center;
   -moz-align-items: center;
   -ms-align-items: center;
