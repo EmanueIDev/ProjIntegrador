@@ -3380,7 +3380,7 @@ hr {
 
 /* line 229, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_headerMenu.scss */
 .header-sticky.sticky-bar {
-  background: #fff;
+  background: #85C4E4;
 }
 
 /* line 235, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_headerMenu.scss */
@@ -3901,13 +3901,13 @@ hr {
   margin-bottom: 50px;
   width: 90px;
   height: 90px;
-  background:#6FEDB7;
+  background:#1ed2ff;
   line-height: 90px;
   text-align: center;
   border-radius: 50%;
   display: inline-block;
   font-size: 40px;
-  color: #fff;
+  color: #02182E;
 }
 
 /* line 41, C:/Users/HP/Desktop/jun-2020/277.Charity _Non-profit/assets/scss/_services_section.scss */
